@@ -112,7 +112,7 @@ The `$defs` keyword provides a standardized way to define reusable subschemas wi
 }
 {{</instance-pass>}}
 
-{{<instance-fail `'author' proeprty is required`>}}
+{{<instance-fail `'author' property is required`>}}
 {
   "title": "Fundamental Chemistry"
 }
